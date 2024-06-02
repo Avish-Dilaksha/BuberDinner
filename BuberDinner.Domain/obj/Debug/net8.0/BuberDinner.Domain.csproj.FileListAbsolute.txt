@@ -9,3 +9,4 @@ E:\dotNetProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Do
 E:\dotNetProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\refint\BuberDinner.Domain.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.pdb
 E:\dotNetProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\ref\BuberDinner.Domain.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Domain\obj\Debug\net8.0\BuberDinner.Domain.sourcelink.json

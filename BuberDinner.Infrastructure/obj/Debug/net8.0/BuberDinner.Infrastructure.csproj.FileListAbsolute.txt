@@ -15,3 +15,4 @@ E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberD
 E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Domain.pdb
 E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
 E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDin.DE1B2DD7.Up2Date
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.sourcelink.json
