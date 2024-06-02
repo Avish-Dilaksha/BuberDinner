@@ -1,0 +1,17 @@
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Infrastructure.deps.json
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Infrastructure.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Infrastructure.pdb
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.AssemblyInfo.cs
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\refint\BuberDinner.Infrastructure.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.pdb
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\ref\BuberDinner.Infrastructure.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Application.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Domain.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Application.pdb
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\bin\Debug\net8.0\BuberDinner.Domain.pdb
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+E:\dotNetProjects\BuberDinner\BuberDinner.Infrastructure\obj\Debug\net8.0\BuberDin.DE1B2DD7.Up2Date
