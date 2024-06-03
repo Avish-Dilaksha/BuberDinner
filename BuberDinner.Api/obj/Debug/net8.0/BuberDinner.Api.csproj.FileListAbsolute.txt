@@ -40,3 +40,6 @@ E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Newtonsoft.Json.d
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.sourcelink.json
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\ErrorOr.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
