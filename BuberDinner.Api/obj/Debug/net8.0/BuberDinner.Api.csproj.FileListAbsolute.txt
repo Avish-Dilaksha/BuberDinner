@@ -46,3 +46,7 @@ E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Extension
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.Core.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\obj\Debug\net8.0\BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
