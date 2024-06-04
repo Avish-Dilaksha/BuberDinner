@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jN0SFcKFDLTV2XVRRH0Hlt5jvamM5b5nF9gtvWzit5kBrNsd0e/guYINqXbh7QQPePHBWCDo3s6wchSLF8n7jA==",
+  "dgSpecHash": "Zez7vqZ1jWfNt4DUIHdBn6klaWh7Vk95JV7bIOHmEjqNih4WoLutbxEh+CXmoZM7f5NtoiNjW8RmoaWHPgjnVg==",
   "success": true,
   "projectFilePath": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -43,3 +43,6 @@ E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\ErrorOr.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Contracts.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.Core.dll
+E:\dotNetProjects\BuberDinner\BuberDinner.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll

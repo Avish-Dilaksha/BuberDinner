@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ZUa1a5EGmdVlpJzlG+nTssGxQ73awUwRn8Z/IONRLX9fUDt3SmT5uRo+9vPfoVnmFv4GNrOgkS/7/u9KobSY4w==",
+  "dgSpecHash": "MWjmI2jmBA9q6HGUlzJzWF2Nu8ZkyJwhvozzkZd+NtFIY0wsPgkAR7fmDgXRd6ZICTxCL0KkjTG23XBRLymKiw==",
   "success": true,
   "projectFilePath": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\KIIT\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+    "C:\\Users\\KIIT\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512"
   ],
   "logs": []
 }

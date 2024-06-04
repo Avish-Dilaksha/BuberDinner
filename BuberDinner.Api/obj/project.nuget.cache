@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Yqa9JKmwe7CIcjv8B5wjlADQTVsd4+/GlwNgDlCu7JU3RJ2Jz6yejS/6PLjblE/rh+J923dfuabKTmAzIrt6eg==",
+  "dgSpecHash": "8pJZHOK5/WFFrC7/BtzdGrTpt3tPK2zMeFq4vqoVuEwfOTASWOtQ2r7LT8IfeF28Ki6c9UswnSmfvjxPaWv8Og==",
   "success": true,
   "projectFilePath": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

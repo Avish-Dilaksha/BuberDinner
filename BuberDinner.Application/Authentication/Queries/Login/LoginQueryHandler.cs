@@ -23,6 +23,8 @@ public class LoginCommandHandler :
 
     public async Task<ErrorOr<AuthenticationResult>> Handle(LoginQuery query, CancellationToken cancellationToken)
     {
+        await Task.CompletedTask; // to get rid of warnings for using async
+
         // 1.) Validate the user already exists
         if(_userRepository.GetUserByEmail(query.Email) is not User user) {
             return Errors.Authentication.InvalidCredentials;

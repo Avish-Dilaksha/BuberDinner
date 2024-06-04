@@ -10,3 +10,4 @@ E:\dotNetProjects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\Bube
 E:\dotNetProjects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 E:\dotNetProjects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
 E:\dotNetProjects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
+E:\dotNetProjects\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
