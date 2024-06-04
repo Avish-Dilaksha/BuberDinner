@@ -6,13 +6,13 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using BuberDinner.Application.Authentication.Queries.Login;
 using BuberDinner.Application.Authentication.Common;
-using BuberDinner.Domain.Entities;
 using MapsterMapper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace BuberDinner.Api.Controllers;
 
-[ApiController]
 [Route("auth")]
+[AllowAnonymous]
 public class AuthenticationController : ApiController
 {
     private readonly ISender _mediator;

@@ -62,6 +62,10 @@
             "Mapster.DependencyInjection": {
               "target": "Package",
               "version": "[1.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -362,6 +366,10 @@
               "target": "Package",
               "version": "[7.4.0, )"
             },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -376,7 +384,7 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[7.6.0, )"
             }
           },
           "imports": [

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "E:\\dotNetProjects\\BuberDinner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD51470B-21FE-46F0-A789-CFE16B75823C}|BuberDinner.Api\\BuberDinner.Api.csproj|e:\\dotnetprojects\\buberdinner\\buberdinner.api\\middleware\\errorhandlingmiddleware\\errorhandllingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD51470B-21FE-46F0-A789-CFE16B75823C}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\middleware\\errorhandlingmiddleware\\errorhandllingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD51470B-21FE-46F0-A789-CFE16B75823C}|BuberDinner.Api\\BuberDinner.Api.csproj|e:\\dotnetprojects\\buberdinner\\buberdinner.api\\buberdinner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD51470B-21FE-46F0-A789-CFE16B75823C}|BuberDinner.Api\\BuberDinner.Api.csproj|solutionrelative:buberdinner.api\\buberdinner.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{334527D3-E6AB-4829-9C9B-3B0F30DFAA30}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|e:\\dotnetprojects\\buberdinner\\buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{334527D3-E6AB-4829-9C9B-3B0F30DFAA30}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|solutionrelative:buberdinner.infrastructure\\buberdinner.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{334527D3-E6AB-4829-9C9B-3B0F30DFAA30}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|e:\\dotnetprojects\\buberdinner\\buberdinner.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{334527D3-E6AB-4829-9C9B-3B0F30DFAA30}|BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj|solutionrelative:buberdinner.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,12 +39,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ErrorHandllingMiddleware.cs",
+              "DocumentMoniker": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Api\\Middleware\\ErrorHandlingMiddleware\\ErrorHandllingMiddleware.cs",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\Middleware\\ErrorHandlingMiddleware\\ErrorHandllingMiddleware.cs",
+              "ToolTip": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Api\\Middleware\\ErrorHandlingMiddleware\\ErrorHandllingMiddleware.cs",
+              "RelativeToolTip": "BuberDinner.Api\\Middleware\\ErrorHandlingMiddleware\\ErrorHandllingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:28:40.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuberDinner.Infrastructure",
+              "DocumentMoniker": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "ToolTip": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "RelativeToolTip": "BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T11:21:50.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "BuberDinner.Infrastructure\\DependencyInjection.cs",
               "ToolTip": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "BuberDinner.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T05:09:43.958Z",
               "EditorCaption": ""
@@ -40,6 +78,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BuberDinner.Api",
+              "DocumentMoniker": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+              "RelativeDocumentMoniker": "BuberDinner.Api\\BuberDinner.Api.csproj",
+              "ToolTip": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+              "RelativeToolTip": "BuberDinner.Api\\BuberDinner.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-04T11:23:48.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\dotNetProjects\\BuberDinner\\BuberDinner.Api\\Program.cs",
               "RelativeDocumentMoniker": "BuberDinner.Api\\Program.cs",

@@ -20,8 +20,9 @@ var app = builder.Build();
 {
     //app.UseMiddleware<ErrorHandllingMiddleware>();
     app.UseExceptionHandler("/error");
-    app.UseHsts();
     app.UseHttpsRedirection();
+    app.UseAuthentication();
+    app.UseAuthorization();
     app.MapControllers();
     app.UseAuthentication();
     app.Run();
